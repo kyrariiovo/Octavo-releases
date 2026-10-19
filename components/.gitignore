@@ -1,0 +1,5 @@
+Resources/Converters/
+work/
+__pycache__/
+.DS_Store
+*.dmg

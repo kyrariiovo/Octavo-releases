@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "platform": "macos-arm64",
+  "version": "0.3.5",
+  "downloadURL": "https://github.com/kyrariiovo/Octavo-releases/releases/download/converters-0.3.5/Octavo-ConversionTools-0.3.5-AppleSilicon.dmg",
+  "size": 415392125,
+  "sha256": "35a1ab2a8ef921b12bb21d21b5fc742b6a67b87ba166a7f9978484284404b378",
+  "notesURL": "https://github.com/kyrariiovo/Octavo-releases/blob/main/notes/converters-0.3.5.md",
+  "purpose": "Optional decoding and document conversion tools for macOS Apple Silicon; separate from reader updates."
+}
