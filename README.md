@@ -8,7 +8,7 @@ macOS、Windows、Android 原生 PDF 阅读、页面编辑和标记工具。
 | --- | --- | --- | --- |
 | macOS 13+ · Apple Silicon / Intel | 0.3.6 | [安装包](https://github.com/kyrariiovo/Octavo-releases/releases/download/macos-0.3.6/Octavo-macOS-0.3.6-Universal.dmg) | [查看说明](notes/macos-0.3.6.md) |
 | Windows 10 2004+ · x64 | 0.5.9 | [安装包](https://github.com/kyrariiovo/Octavo-releases/releases/download/windows-0.5.9/Octavo-Setup-0.5.9-x64.exe) | [查看说明](notes/windows-0.5.9.md) |
-| Android 8.0+ | 0.10.0 | [安装包](https://github.com/kyrariiovo/Octavo-releases/releases/download/android-0.10.0/Octavo-Android-0.10.0.apk) | [查看说明](notes/android-0.10.0.md) |
+| Android 8.0+ | 0.13.0 | [安装包](https://github.com/kyrariiovo/Octavo-releases/releases/download/android-0.13.0/Octavo-Android-0.13.0.apk) | [查看说明](notes/android-0.13.0.md) |
 
 ## macOS 可选解码与转换组件
 
